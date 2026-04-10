@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -86,8 +86,8 @@ footer {
 <body>
 
 <section class="hero">
-    <h1>Services IT & Cybersécurité Premium</h1>
-    <p>Développez, sécurisez et automatisez votre environnement numérique avec un expert</p>
+    <h1>Services IT</h1>
+    <p>Développez, sécurisez et automatisez votre environnement numérique </p>
     <button class="btn">Contact rapide</button>
 </section>
 
